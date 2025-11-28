@@ -1,11 +1,18 @@
-# Hi 👋, I'm Arjunsing Pardeshi  
-### Full-Stack Developer | GenAI & Agentic AI Engineer
+<h1 align="center"># Hi there, I'm Arjunsing Pardeshi 👋</h1>
+  
+<h1 align="center">### Full-Stack Developer | GenAI & Agentic AI Engineer</h1>
 
-📧 **Email:** pardeshiarjunsing1010@gmail.com  
-🐙 **GitHub:** [github.com/arjunsing1010](https://github.com/arjunsing1010)
-
+## About me
+- Full-stack dev with a backend mindset.  
+- I design APIs, build systems, and ship clean, reliable code.  
+- Turn ideas into real, production-ready software fast.  
+- Love solving hard problems and improving performance.  
 ---
-
+## Let's connect
+<a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/png/twitter.png" width="32px">
+</a>
+---
 ## 🚀 Technical Skills
 
 **Programming Languages:**  
