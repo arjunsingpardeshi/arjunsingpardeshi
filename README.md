@@ -8,7 +8,7 @@
 - Turn ideas into real, production-ready software fast.  
 - Love solving hard problems and improving performance.  
 ---
-## Let's connect
+## Connect with
 <a href="https://twitter.com/ArjunsingPDev" target="_blank">
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/png/twitter.png" width="32px">
 </a>
@@ -18,22 +18,54 @@
 ## 🚀 Technical Skills
 
 **Programming Languages:**  
-JavaScript, TypeScript, Java  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+</p>
+  
 
 **Databases:**  
-MongoDB, PostgreSQL, Redis, Qdrant  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
+  <!-- Qdrant has no official icon, use a generic DB icon -->
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/png/database.png" width="40"/>
+</p>
 
 **Frontend:**  
-React.js, Next.js, Tailwind CSS, ShadCN UI, Zustand, HTML5, CSS3  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+</p>
 
 **Backend:**  
-Node.js, Express.js, REST APIs, Prisma ORM  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40"/>
+  <!-- No REST API icon available -->
+</p>
 
 **DevOps & Tools:**  
-Docker, Git, PM2, Caddy, AWS EC2  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40"/>
+</p>
 
 **GenAI Development:**  
-LLM API Integration, Embeddings, LangChain.js, RAG  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/png/artificialintelligence.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/png/brain.png" width="40"/>
+</p>
+
+**LLM API Integration • Embeddings • LangChain.js • RAG  
+LangGraph • OpenAI Agents • Multi-Agent Workflows**
 
 **Agentic AI Development:**  
 LangGraph, OpenAI Agents, Multi-Agent Workflows, Autonomous Task Agents  
