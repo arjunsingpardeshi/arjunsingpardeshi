@@ -77,12 +77,5 @@
 - Full-stack dataset management: add/remove datasets dynamically.
 
 ---
-
-## 🎓 Education
-**PES Modern College of Engineering, Pune**  
-Master of Computer Application (CGPA: 7.8)
-
----
-
 ## 🙌 Thanks for visiting!
 ⭐ Feel free to check out my repositories and connect with me!
