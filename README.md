@@ -34,7 +34,7 @@ LangGraph, OpenAI Agents, Multi-Agent Workflows, Autonomous Task Agents
 ## 🧩 Projects
 
 ### 🔵 Leet-Lab – Online Coding Practice Platform  
-**Live | Source Code**  
+[Live](https://www.devstreak.online/) | [Source Code](https://github.com/arjunsingpardeshi/leet-code)
 - Full-stack LeetCode-like platform with real-time code execution & instant feedback.  
 - Frontend: React, Tailwind CSS, DaisyUI, Zustand, Monaco Editor (VS Code-like experience).  
 - Backend: Express.js, Prisma ORM, Supabase PostgreSQL.  
@@ -43,7 +43,7 @@ LangGraph, OpenAI Agents, Multi-Agent Workflows, Autonomous Task Agents
 ---
 
 ### 🟣 YTThumbs – AI-Powered YouTube Thumbnail Generator  
-**Demo | Source Code**  
+[Demo](https://youtu.be/HaWC37Ddrsg?si=GhmEfEaBTyXWjls3) | [Source Code](https://github.com/arjunsingpardeshi/youtube-thumbnail-generator) 
 - Full-stack Next.js app with secure Clerk authentication.  
 - Multi-step thumbnail customization flow (Style, Color Scheme, Mood, Visual Elements, Text Style).  
 - Cloudinary-based media upload, preview, storage.  
@@ -53,7 +53,7 @@ LangGraph, OpenAI Agents, Multi-Agent Workflows, Autonomous Task Agents
 ---
 
 ### 🟠 Notebook LLM – AI-Powered RAG Knowledge Assistant  
-**Demo | Source Code**  
+[Demo](https://youtu.be/RvZyhgyDiiM?si=Y_MowUKB3ogWk80h) | [Source Code](https://github.com/arjunsingpardeshi/Rag-app) 
 - Built RAG ingestion pipeline for PDFs, text, and URLs in Next.js.  
 - Stored embeddings in Qdrant using LangChain + OpenAI embeddings.  
 - Context-aware chatbot using Gemini API as a query optimizer/judge.  
