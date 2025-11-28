@@ -44,11 +44,7 @@
   <!-- DevOps & Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg](https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png)" width="40" />
 
-  <!-- GenAI / Agentic AI -->
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/png/artificialintelligence.png" width="40" />
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/png/brain.png" width="40" />
 </p>
 
 ---
