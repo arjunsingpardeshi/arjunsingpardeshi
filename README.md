@@ -27,7 +27,6 @@
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
 
@@ -40,13 +39,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/png/database.png" width="40" /><!-- For Qdrant -->
 
  
   <!-- DevOps & Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" />
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg](https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png)" width="40" />
 
   <!-- GenAI / Agentic AI -->
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/png/artificialintelligence.png" width="40" />
