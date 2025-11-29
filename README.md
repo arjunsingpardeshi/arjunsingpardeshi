@@ -6,7 +6,13 @@
 - Full-stack dev with a backend mindset.  
 - I design APIs, build systems, and ship clean, reliable code.  
 - Turn ideas into real, production-ready software fast.  
-- Love solving hard problems and improving performance.  
+- Love solving hard problems and improving performance.
+
+## 📄 Resume
+<a href="https://drive.google.com/drive/u/0/folders/1AeJA7KL8S-By8UbxMFGBzik-9THVzUIt" target="_blank">
+  👉 **Click here to view my Resume**
+</a>
+
 ---
 ## Connect with
 <a href="https://twitter.com/ArjunsingPDev" target="_blank">
