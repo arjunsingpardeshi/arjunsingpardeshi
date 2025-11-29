@@ -47,6 +47,7 @@
   <!-- DevOps & Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+  
 </p>
 
 ---
