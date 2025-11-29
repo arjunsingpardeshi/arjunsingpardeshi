@@ -9,9 +9,9 @@
 - Love solving hard problems and improving performance.
 
 ## 📄 Resume
-<a href="https://drive.google.com/drive/u/0/folders/1AeJA7KL8S-By8UbxMFGBzik-9THVzUIt" target="_blank">
-  👉 **Click here to view my Resume**
-</a>
+
+  👉 **[Click here to view my Resume](https://drive.google.com/drive/u/0/folders/1AeJA7KL8S-By8UbxMFGBzik-9THVzUIt)**
+
 
 ---
 ## Connect with
