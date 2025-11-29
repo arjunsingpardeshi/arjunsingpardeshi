@@ -83,5 +83,14 @@
 - Full-stack dataset management: add/remove datasets dynamically.
 
 ---
+
+### 🟠 Persona AI Chatbot  
+[Live](https://ai-persona-rho.vercel.app/) | [Source Code](https://github.com/arjunsingpardeshi/AI-persona)
+- Built a simple AI persona chatbot with multiple selectable personalities.  
+- Developed a clean, fast chat interface using React + TypeScript.  
+- Integrated LLM API with structured persona prompts for consistent responses.  
+- Deployed on Vercel with optimized production build and strict TypeScript checks.
+
+---
 ## 🙌 Thanks for visiting!
 ⭐ Feel free to check out my repositories and connect with me!
