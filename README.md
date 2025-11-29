@@ -12,13 +12,11 @@
 
   👉 **[Click here to view my Resume](https://drive.google.com/file/d/1xzjzqDHRAIUjw7pNivbrNf1WKjrifymp/view)**
 
-
 ---
 ## Connect with
 <a href="https://twitter.com/ArjunsingPDev" target="_blank">
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/png/twitter.png" width="32px">
 </a>
-
 
 ---
 ## 🚀 Technical Skills
