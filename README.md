@@ -54,6 +54,13 @@
 
 ## 🧩 Projects
 
+### 🔵 Build-Zero – AI UI Generation Platform (v0 Clone)
+[Live](https://buildzero.devstreak.online/) | [Source Code](https://github.com/arjunsingpardeshi/v0-clone)
+- Full-stack AI UI generation platform that converts natural language prompts into live React UI previews.
+- Frontend: Next.js App Router, Tailwind CSS, shadcn/ui, TanStack Query for real-time rendering and state management.
+- Backend: Node.js, Prisma ORM, PostgreSQL, with authentication, billing, and usage limits via Clerk.
+- AI & Infra: OpenAI API for code generation, Inngest for background workflows, and E2B sandboxes for secure, isolated execution.
+
 ### 🔵 Leet-Lab – Online Coding Practice Platform  
 [Live](https://www.devstreak.online/) | [Source Code](https://github.com/arjunsingpardeshi/leet-code)
 - Full-stack LeetCode-like platform with real-time code execution & instant feedback.  
