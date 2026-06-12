@@ -10,7 +10,7 @@
 
 ## 📄 Resume
 
-  👉 **[Click here to view my Resume](https://drive.google.com/file/d/1u_O0zTLNFXTT3eWSOzLa_9MOswdLR-aZ/view)**
+  👉 **[Click here to view my Resume](https://drive.google.com/file/d/1qmpKGNrMp7mI1v45C6sT8LOd6aZ8nbOp/view)**
 
 ---
 ## Connect with
